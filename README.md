@@ -2,20 +2,16 @@
 
 > A Vue.js project
 
-## Build Setup
+好玩寫的Project
+前端使用Vue 後端使用Flask + Anaconda
 
-``` bash
-# install dependencies
-npm install
+設想的功能是
+前端上傳Gif與要改的圖
+後端自動幫套上要改的圖
 
-# serve with hot reload at localhost:8080
-npm run dev
+原本使用Sift來追蹤Gif中的特徵
+但是效果不太理想
 
-# build for production with minification
-npm run build
+就又轉成手動框選要改圖的區域
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+目前還未完成
